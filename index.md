@@ -1,4 +1,4 @@
 ---
-layout: main
-title: IEEE AIKE 2018
+layout: main-none
+title: IEEE AIKE 2019
 ---
