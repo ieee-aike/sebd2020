@@ -12,11 +12,9 @@ toc:
       - page: Submission Instructions
         url: ./#submission
   - title: C.V. Ramamoorthy Award
-    url: ./award
   - title: Attending
     submenu:
       - page: Registration
-        url: http://45mins.org/registration/registration.jsp
       - page: Venue Info
         url: http://www.thelagunahillshotel.com/en-us
       - page: Accomodation
@@ -27,11 +25,9 @@ toc:
   - title: Program
     submenu:
       - page: Detailed Conference Program
-        url: https://goo.gl/4pW5EM
       - page: Keynote Speakers
         url: ./#keynotes
       - page: Joint Workshops
-        url: ./joint_workshops
       - page: Accepted Papers
       - page: Timetable
       - page: Welcome Reception
@@ -41,6 +37,5 @@ toc:
       - page: Organization Committee
         url: ./#committees
       - page: Program Committee
-        url: ./pc
       - page: Contacts
         url: ./#contacts
