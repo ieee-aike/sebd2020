@@ -2,10 +2,10 @@
 title: Call for Workshops
 ---
 
-The chairs of AIKE 2018 invite proposals for workshops to be co-located with AIKE 2018. Workshops can have different lengths ranging from 2 hours to a full day.
+The chairs of AIKE 2019 invite proposals for workshops to be co-located with AIKE 2019. Workshops can have different lengths ranging from 2 hours to a full day.
 
 #### Content and Format
-We welcome workshop proposals on topics within the scope of AIKE 2018, emerging research areas and applications, multi-discipline topics, and other miscellaneous topics that are well suited to the flexibility that a workshop format provides and that are expected to be of interest to a significant proportion of AIKE 2018 attendees. Workshops may consist of any subset of invited talks, paper presentations, discussion panels, and other activities that the workshop organizers would like to propose. The rooms provided for the workshops will have capacities ranging from 30 to 60. Papers submitted to the workshops for peer review should consist of new unpublished work and papers accepted to the workshops will be published in the workshops section of the AIKE proceedings.
+We welcome workshop proposals on topics within the scope of AIKE 2019, emerging research areas and applications, multi-discipline topics, and other miscellaneous topics that are well suited to the flexibility that a workshop format provides and that are expected to be of interest to a significant proportion of AIKE 2019 attendees. Workshops may consist of any subset of invited talks, paper presentations, discussion panels, and other activities that the workshop organizers would like to propose. The rooms provided for the workshops will have capacities ranging from 30 to 60. Papers submitted to the workshops for peer review should consist of new unpublished work and papers accepted to the workshops will be published in the workshops section of the AIKE proceedings.
 
 #### Organization and Responsibilities
 Workshop organizers are largely autonomous in setting the schedule of events at their workshop. Workshop organizers are responsible for creating a website for their workshop, issuing a Call for Papers for their workshop, arranging a Program Committee of appropriate size and experience for the workshop, setting up the schedule of events for the workshop that is in accord with any AIKE constraints such as shared break times, and being present to moderate the workshop.
@@ -30,7 +30,9 @@ The single PDF file should be submitted to **aike@uci.edu**.
 Workshops will be selected based on which ones the committee expects to be most valuable for AIKE attendees. Our goal is to have a diverse set of interesting and timely workshops that are well run and productive events.
 
 #### Important Dates
- - **Workshop proposals deadline:** June 24, 2018
- - **Paper submission deadline (Regular, Short, Poster, Demo):** July 1, 2018
+ - **Workshop proposals deadline:** January 24, 2019
+
+<!--
+ - **Paper submission deadline (Regular, Short, Poster, Demo):** July 1, 2019
  - **Notification of acceptance:** August 12, 2018
- - **Camera ready deadline:** August 26, 2018
+ - **Camera ready deadline:** August 26, 2018 -->
