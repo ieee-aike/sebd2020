@@ -2,7 +2,7 @@
 title: Program Committee
 ---
 
-### TBA ###
+### List of PC members will be announced shortly (TBA) ###
 
 <!--
 
