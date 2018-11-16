@@ -534,6 +534,26 @@ The conference proceedings will be published by the <b>IEEE Computer Society Pre
     <!-- Custom scripts for this template -->
     <script src="js/creative.js"></script>
 	  
+    <script>
+       /* slideshow */
+
+  setInterval(function() {
+
+		  var x = 1+Math.floor(Math.random() * 8); // 1-8
+
+		  $('header.masthead')
+		     .fadeOut(300, function() {
+
+				  $('header.masthead')
+					.css('background-image', 'url(img/' + x + '.png)')
+					.fadeIn(300)
+			 })
+	  
+  }, 8000);
+
+
+    </script>
+
  <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
