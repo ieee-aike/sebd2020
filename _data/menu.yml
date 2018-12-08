@@ -12,6 +12,7 @@ toc:
       - page: Submission Instructions
         url: ./#submission
   - title: C.V. Ramamoorthy Award
+    url: ./award
   - title: Attending
     submenu:
       - page: Registration
