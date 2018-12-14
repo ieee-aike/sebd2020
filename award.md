@@ -25,7 +25,7 @@ Nominations for the 2019 C.V. Ramamoorthy Award should be submitted to aike@uci.
 
 
 
-### 2018 C.V. Ramamoorthy Award Committee
+### C.V. Ramamoorthy Award Committee
 - Farokh Bastani, University of Texas, Dallas, USA 
 - Bharat Bhargava, Purdue University, USA   
 - Wen-Tsuen Chen, National Tsing Hua University, Taiwan (CHAIR)  
