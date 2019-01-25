@@ -19,7 +19,9 @@ toc:
       - page: Venue 
         url: https://www.hotelreginamargherita.com/en/
       # - page: Accomodation
-      - page: Travel and Touristic info
+      - page: Travel info
+        url: http://www.cagliariturismo.it/en/get-to-cagliari
+      - page: About Cagliari
         url: https://www.lonelyplanet.com/italy/sardinia/cagliari
       - page: Visa Application
         url: ./#contacts
