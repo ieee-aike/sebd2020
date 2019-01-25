@@ -16,20 +16,22 @@ toc:
   - title: Attending
     submenu:
       - page: Registration
-      - page: Venue Info
-      - page: Accomodation
-      - page: Travel info
+      - page: Venue 
+        url: https://www.hotelreginamargherita.com/en/
+      # - page: Accomodation
+      - page: Travel and Touristic info
+        url: https://www.lonelyplanet.com/italy/sardinia/cagliari
       - page: Visa Application
         url: ./#contacts
-  - title: Program
-    submenu:
-      - page: Detailed Conference Program
-      - page: Keynote Speakers
-        url: ./#keynotes
-      - page: Joint Workshops
-      - page: Accepted Papers
-      - page: Timetable
-      - page: Special Events
+  #- title: Program
+    #submenu:
+      #- page: Detailed Conference Program (tba)
+      #- page: Keynote Speakers (tba)
+      #  url: ./#keynotes
+      #- page: Joint Workshops (tba)
+      #- page: Accepted Papers (tba)
+      #- page: Timetable (tba)
+      #- page: Special Events (tba)
   - title: Organization
     submenu:
       - page: Organization Committee
