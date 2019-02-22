@@ -2,7 +2,49 @@
 title: Program Committee
 ---
 
-### List of PC members will be announced shortly (TBA) ###
+<!-- ### List of PC members will be announced shortly (TBA) ### ->
+
+- *Maurizio Lenzerini*, Sapienza University of Rome (Chair)
+- *Shi Gao*, Google (Chair)
+- *Yunmook Nah*, Dankook University (Chair)
+- *Abhijin Adiga*, University of Virginia
+- *Amparo Alonso-Betanzos*, University of A Coruña
+- *Martin Atzmueller*, Tilburg University
+- *Maurizio Atzori*, University of Cagliari
+- *Elena Baralis*, Politecnico di Torino
+- *Muhao Chen*, University of California, Los Angeles
+- *Seong-Je Cho*, Department of Computer Science & Engineering, Dankook University
+- *Lynn Choi*, Korea University
+- *Claudia d'Amato*, University of Bari
+- *Ernesto Damiani*, University of Milan
+- *Enrico Franconi*, Free University of Bozen-Bolzano
+- *Kyu-Baek Hwang*, Soongsil University
+- *Matteo Interlandi*, Microsoft
+- *Franz Kurfess*, Cal Poly SLO
+- *Anne Laurent*, LIRMM - UM
+- *Sangjun Lee*, Soongsil University
+- *Shuai Li*, University of Cambridge
+- *Simone Ludwig*, North Dakota State University
+- *Brad Malin*, Vanderbilt University
+- *Elio Masciari*, ICAR-CNR
+- *Florent Masseglia*, INRIA
+- *Mirjana Mazuran*, INRIA
+- *Giuseppe M. Mazzeo*, Facebook
+- *Daniela Pamplona*, ENSTA-PARISTECH
+- *Adina M. Panchea*, LIX, Cosynus team, Ecole Polytechnique
+- *Ki-Woong Park*, Sejong University
+- *Barbara Pes*, University of Cagliari
+- *Gianvito Pio*, University of Bari "Aldo Moro"
+- *Domenico Fabio Savo*, University of Bergamo
+- *Stefan Schwab*, FZI Research Center for Information Technology
+- *Le Hoang Son*, VNU University of Science, Vietnam National University
+- *Dongjin Song*, NEC Labs America
+- *Hwang Soochan*, Korea Aerospace University
+- *Lubomir Stanchev*, Cal Poly
+- *Lini Thomas*, IIIT Hyderabad
+- *Carlo Zaniolo*, University of California, Los Angeles
+
+
 
 <!--
 
