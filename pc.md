@@ -2,8 +2,6 @@
 title: Program Committee
 ---
 
-<!-- ### List of PC members will be announced shortly (TBA) ### ->
-
 - *Maurizio Lenzerini*, Sapienza University of Rome (Chair)
 - *Shi Gao*, Google (Chair)
 - *Yunmook Nah*, Dankook University (Chair)
@@ -44,6 +42,8 @@ title: Program Committee
 - *Lini Thomas*, IIIT Hyderabad
 - *Carlo Zaniolo*, University of California, Los Angeles
 
+
+<!-- ### List of PC members will be announced shortly (TBA) ### ->
 
 
 <!--
