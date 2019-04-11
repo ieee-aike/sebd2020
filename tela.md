@@ -1,7 +1,8 @@
 ---
-title: International Workshop on Technology Enhanced Learning and Assessment (TELA) at IEEE AIKE 2019
+title: International Workshop on Technology Enhanced Learning and Assessment (TELA)
 ---
 
+The International Workshop on Technology Enhanced Learning and Assessment (TELA) will be part of the [2019 IEEE Conference on Artificial Intelligence and Knowledge Engineering (IEEE AIKE 2019)](http://www.ieee-aike.org/2019/), taking place in Cagliari, Sardinia, Italy on June 3-5, 2019.
 
 ## Workshop Aim
 Our workshop aims at gathering researchers, experts and practitioners who are
