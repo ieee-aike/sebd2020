@@ -1,6 +1,5 @@
 ---
-title: International Workshop on
-Technology Enhanced Learning and Assessment (TELA) at IEEE AIKE 2019
+title: International Workshop on Technology Enhanced Learning and Assessment (TELA) at IEEE AIKE 2019
 ---
 
 
