@@ -37,7 +37,7 @@ Accepted papers will be part of IEEE AIKE 2019’s proceedings.
 Hence, kindly use the IEEE Template that is available on AIKE's web page
 
 ## Important dates
-
+ - TBA
 
 ## TELA Workshop Chairs
 
@@ -47,18 +47,18 @@ Hence, kindly use the IEEE Template that is available on AIKE's web page
 
 ## Scientific Committee
 
-  - Abdelhalim Benachenhou, LEOG Laboratory, University Abdelhamid
-  - Ibn Badis – Mostaganem, Algeria
-  - Mohamed Amine Chatti, University of Duisburg-Essen, Germany
-  - Mohamed Hedi Bel Haj, University Constantine, Algeria
-  - Mona Laroussi, Institut de la Francophonie pour l’Education et la Formation, Senegal
-  - Nicolas Delestre, INSA Rouen Normandie, France
-  - Ouajdi Korbaa, ISITC, MARS research Lab, Sousse University, Tunisia
-  - Rafik Braham, PRINCE Lab, ISITCom, Sousse University, Tunisia
-  - Rima Malek, Faculty of Education, Lebanese University,Lebanon
-  - Samuel Nowakowski, Lorraine University, Nancy,France
-  - Serge Garlatti, Computer Science Department, IMT Atlantique Bretagne, Ecole Mine Telecom Brest,France
-  - Sonia Ayachi Ghannouch, RIADI Lab, Sousse University Tunisia
-  - Yousra Bendaly Hlaoui, Faculty of Sciences of Tunis, CS dep., Tunisia
+  - *Abdelhalim Benachenhou*, LEOG Laboratory, University Abdelhamid
+  - *Ibn Badis*, Mostaganem, Algeria
+  - *Mohamed Amine Chatti*, University of Duisburg-Essen, Germany
+  - *Mohamed Hedi Bel Haj*, University Constantine, Algeria
+  - *Mona Laroussi*, Institut de la Francophonie pour l’Education et la Formation, Senegal
+  - *Nicolas Delestre*, INSA Rouen Normandie, France
+  - *Ouajdi Korbaa*, ISITC, MARS research Lab, Sousse University, Tunisia
+  - *Rafik Braham*, PRINCE Lab, ISITCom, Sousse University, Tunisia
+  - *Rima Malek*, Faculty of Education, Lebanese University, Lebanon
+  - *Samuel Nowakowski*, Lorraine University, Nancy,France
+  - *Serge Garlatti*, Computer Science Department, IMT Atlantique Bretagne, Ecole Mine Telecom Brest,France
+  - *Sonia Ayachi Ghannouch*, RIADI Lab, Sousse University Tunisia
+  - *Yousra Bendaly Hlaoui*, Faculty of Sciences of Tunis, CS dep., Tunisia
 
 
