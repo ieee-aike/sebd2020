@@ -7,6 +7,8 @@ toc:
         url: ./workshops#call
       - page: Doctoral Consortium
         url: ./doctoral-consortium
+      - page: TELA workshop
+        url: ./tela
       - page: Topics
         url: ./#topics
       - page: Important Dates
