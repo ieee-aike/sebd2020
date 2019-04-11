@@ -5,14 +5,20 @@ toc:
         url: ./#cfp
       - page: Call for Workshops
         url: ./workshops#call
+      - page: Doctoral Consortium
+        url: ./doctoral-consortium
       - page: Topics
         url: ./#topics
       - page: Important Dates
         url: ./#dates
       - page: Submission Instructions
         url: ./#submission
-  - title: C.V. Ramamoorthy Award
-    url: ./award
+  - title: Awards and Travel Grants
+    submenu:
+      - page: C.V. Ramamoorthy Award
+        url: ./award
+      - page: Young researchers Travel Awards
+        url: ./doctoral-consortium
   - title: Attending
     submenu:
       - page: Registration
