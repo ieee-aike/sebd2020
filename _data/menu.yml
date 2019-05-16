@@ -34,12 +34,14 @@ toc:
         url: https://www.lonelyplanet.com/italy/sardinia/cagliari
       - page: Visa Application
         url: ./#contacts
-  #- title: Program
-    #submenu:
-      #- page: Detailed Conference Program (tba)
-      #- page: Keynote Speakers (tba)
-      #  url: ./#keynotes
-      #- page: Joint Workshops (tba)
+  - title: Program
+    submenu:
+      - page: Detailed Conference Program (preliminary)
+        url: https://docs.google.com/document/d/e/2PACX-1vSlXTcg7M_rVCkqCSEgUi526jUc6CEfP_AwlSrGgSHmNWkUZVjDsPUyLyWmio-2Wv8dWJJb6dUax6vX/pub
+      - page: Keynote Speakers
+        url: ./#keynotes
+      - page: TELA Workshop
+        url: ./tela
       #- page: Accepted Papers (tba)
       #- page: Timetable (tba)
       #- page: Special Events (tba)
