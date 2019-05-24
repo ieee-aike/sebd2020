@@ -27,7 +27,8 @@ toc:
         url: http://www.cvent.com/d/m6qfg7
       - page: Venue 
         url: https://www.hotelreginamargherita.com/en/
-      # - page: Accomodation
+      - page: Accomodation Options
+        url: ./accomodation
       - page: Travel info
         url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Cagliari
