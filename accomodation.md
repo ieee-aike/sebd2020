@@ -8,8 +8,8 @@ Viale Regina Margherita 44, 09124 Cagliari
 
 Set in the historic center of Cagliari, surrounded by restaurants, bars and shops, Regina Margherita is a 10-minute walk from Cagliari Cathedral and Port of Cagliari.
 
-To book your stay, please contact the hotel through this email booking@hotelreginamargherita.com. When booking, **please confirm you are a AIKE conference attendee**, we reserved all the available rooms (limited availability). 
-Pricing: ~ 130 Euro per night
+ * To book your stay, please contact the hotel through this email booking@hotelreginamargherita.com. When booking, **please confirm you are a AIKE conference attendee**, we reserved all the available rooms (limited availability). 
+ * Pricing: ~ 130 Euro per night
 
 
 More Hotels in the city centre:
@@ -22,7 +22,7 @@ Featuring a central position overlooking Cagliari Harbour, this designer hotel p
 
  * Walking distance to the conference venue: 5 minutes
  * Pricing: ~ 150 Euro per night
- * To book your stay, please visit the reservation page.
+ * To book your stay, please visit the hotel reservation page.
 
 
 
@@ -33,7 +33,7 @@ Located in Cagliari, 9.7 km from Poetto Beach, Il Gallo Bianco has a terrace. Fe
 
  * Walking distance to the conference venue: 14 minutes
  * Pricing: ~ 100 Euro per night
- * To book your stay, please visit the reservation page
+ * To book your stay, please visit the hotel reservation page.
 
 
 
@@ -44,7 +44,7 @@ Located 0.6 mi from the center of Cagliari, Hotel Villa Fanny offers air-conditi
 
  * Walking distance to the conference venue: 14 minutes
  * Pricing: ~ 200 Euro per night
- * To book your stay, please visit the reservation page
+ * To book your stay, please visit the hotel reservation page.
 
 
 
@@ -55,7 +55,7 @@ Featuring a traditional restaurant, the 4-star Hotel Flora is located in central
 
  * Pricing: ~ 130 Euro per night
  * Walking distance to the conference venue: 12 minutes
- * To book your stay, please visit the reservation page
+ * To book your stay, please visit the hotel reservation page.
 
 
 
@@ -67,7 +67,7 @@ The T Hotel features a modern gym and an Acqua Journey spa with a hydrotherapy p
 
  * Pricing: ~ 150 Euro per night
  * Walking distance to the conference venue: 25 minutes
- * To book your stay, please visit the reservation page
+ * To book your stay, please visit the hotel reservation page.
 
 ### Bed and Breakfast and other solutions
 Other budget solutions (including B&amp;B, Hotels and shared apartments) in the city centre are available and can be found both on [booking.com](https://www.booking.com/) and [airbnb.com](https://www.airbnb.com)
